@@ -21,7 +21,13 @@ and show some related work. [1]
 Below table characterizes	the	sensor technologies	at high‐level. The	values	specified for	accuracy and coverage	are	given	in form	of intervals wherein	most approaches reside.	There	are	many exceptions exceeding	these	intervals. Similarly, only the	main measuring principles and applications are mentioned in the table. [2]
 
 ![Coverage refers to ranges](Images/Coverage_refers_to_ranges.png)
+
+A graphical overview in dependence of	accuracy and coverage is given in	below Figure
+
 ![accuracy and carrier wavelength](Images/accuracy_and_carrier_wavelength.png)
+
+As can be seen from below Figure a large part of the electromagnetic spectrum can	be exploited for indoor	positioning. High	accuracy systems tend	to employ shorter wavelengths.	
+
 ![accuracy and coverage](Images/accuracy_and_coverage.png)
 
 
