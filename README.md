@@ -15,21 +15,25 @@ In addition to conceptual explanations, this project includes implementation exa
 ## Related work
 
 Here on we review the main characteristics of the technologies that are most employed in UAV localization
-and show some related work. [1]
+and show some related work [1].
 ![Indoor Localization Technologies](Images/Overview_of_technology_trends.png)
 
-Below table characterizes	the	sensor technologies	at high‐level. The	values	specified for	accuracy and coverage	are	given	in form	of intervals wherein	most approaches reside.	There	are	many exceptions exceeding	these	intervals. Similarly, only the	main measuring principles and applications are mentioned in the table. [2]
+Below table characterizes	the	sensor technologies	at high‐level. The	values	specified for	accuracy and coverage	are	given	in form	of intervals wherein	most approaches reside.	There	are	many exceptions exceeding	these	intervals. Similarly, only the	main measuring principles and applications are mentioned in the table [2].
 
 ![Coverage refers to ranges](Images/Coverage_refers_to_ranges.png)
 
-A graphical overview in dependence of	accuracy and coverage is given in	below Figure
+A graphical overview in dependence of	accuracy and coverage is given in	below Figure [2].
 
 ![accuracy and carrier wavelength](Images/accuracy_and_carrier_wavelength.png)
 
-As can be seen from below Figure a large part of the electromagnetic spectrum can	be exploited for indoor	positioning. High	accuracy systems tend	to employ shorter wavelengths.	
+As can be seen from below Figure a large part of the electromagnetic spectrum can	be exploited for indoor	positioning. High	accuracy systems tend	to employ shorter wavelengths [2].	
 
 ![accuracy and coverage](Images/accuracy_and_coverage.png)
 
+
+The	following	list of	different parameters can	be	used	as	a	basis	for	assessment	and	comparison of different indoor positioning systems. Due	to the large number of criteria, it is not straightforward	for	a	user	to	identify	the	optimal	system	for	a	particular	application. below Figure illustrates	the	complexity	and	multi‐dimensionality	of	the	optimization problem	confronting	the user.	For	each	application,	the	16 user	requirements	need	to	be	weighted	against	each	other.	The different	requirements	are	listed	below	with	some	example	values	given	in	brackets [2].
+
+![Requirements Parameters Overview](Images/Requirements_Parameters_Overview.png)
 
 [1] D. Gualda, J.de Vicente, J.M. Villadangos, and J. Ureña M.C. Pérez, "Review of UAV positioning in indoor environments and new proposal based on US measurements,".
 
