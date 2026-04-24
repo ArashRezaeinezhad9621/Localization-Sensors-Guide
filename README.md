@@ -11,3 +11,8 @@ A key challenge in robotics is therefore not only understanding how these sensor
 This repository is designed to provide a structured and practical exploration of localization sensors, focusing on both theoretical foundations and real-world applications. It aims to help students, researchers, and engineers build an intuitive and technical understanding of how different sensing modalities contribute to localization, particularly in indoor and outdoor environments.
 
 In addition to conceptual explanations, this project includes implementation examples and is complemented by a dedicated video series to further support learning and practical insight.
+
+## Related work
+
+Here on we review the main characteristics of the technologies that are most employed in UAV localization
+and show some related work. 
