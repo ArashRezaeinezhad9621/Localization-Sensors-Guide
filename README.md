@@ -16,4 +16,4 @@ In addition to conceptual explanations, this project includes implementation exa
 
 Here on we review the main characteristics of the technologies that are most employed in UAV localization
 and show some related work. 
-![Indoor Localization Technologies](images/Overview_of_technology_trends.png)
+![Indoor Localization Technologies](Images/Overview_of_technology_trends.png)
