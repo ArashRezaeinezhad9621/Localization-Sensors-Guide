@@ -15,5 +15,11 @@ In addition to conceptual explanations, this project includes implementation exa
 ## Related work
 
 Here on we review the main characteristics of the technologies that are most employed in UAV localization
-and show some related work. 
+and show some related work. [1]
 ![Indoor Localization Technologies](Images/Overview_of_technology_trends.png)
+
+Below table characterizes	the	sensor technologies	at high‐level. The	values	specified for	accuracy and coverage	are	given	in form	of intervals wherein	most approaches reside.	There	are	many exceptions exceeding	these	intervals. Similarly, only the	main measuring principles and applications are mentioned in the table. [2]
+
+
+[1] D. Gualda, J.de Vicente, J.M. Villadangos, and J. Ureña M.C. Pérez, "Review of UAV positioning in indoor environments and new proposal based on US measurements,".
+[2] R. Mautz, "Indoor positioning technologies," Habilitation Thesis 2012.
