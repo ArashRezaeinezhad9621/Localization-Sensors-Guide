@@ -20,7 +20,10 @@ and show some related work. [1]
 
 Below table characterizes	the	sensor technologies	at high‐level. The	values	specified for	accuracy and coverage	are	given	in form	of intervals wherein	most approaches reside.	There	are	many exceptions exceeding	these	intervals. Similarly, only the	main measuring principles and applications are mentioned in the table. [2]
 
-![Indoor Localization Technologies](Images/Overview_of_technology_trends.png)
+![Coverage refers to ranges](Images/Coverage_refers_to_ranges.png)
+![accuracy and carrier wavelength](Images/accuracy_and_carrier_wavelength.png)
+![accuracy and coverage](Images/accuracy_and_coverage.png)
+
 
 [1] D. Gualda, J.de Vicente, J.M. Villadangos, and J. Ureña M.C. Pérez, "Review of UAV positioning in indoor environments and new proposal based on US measurements,".
 
